@@ -8,3 +8,4 @@ Esto es un ejemplo para crear un PR.
 4. Crear un PR.
 5. Solicitar aprovacion.
 6. Merge.
+7. Subir las fots
